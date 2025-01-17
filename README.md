@@ -19,8 +19,8 @@
 
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/darkstarbdx/fixify.git
-cd fixify
+git clone https://github.com/darkstarbdx/Fixify.git
+cd Fixify
 ```
 
 2️⃣ Make the script executable:  
